@@ -1,0 +1,1398 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+
+.lm-menu-page-makanan-dWf {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #3b3b3b;
+}
+.lm-menu-page-makanan-dWf .navbar-7gj {
+  width: 100%;
+  height: 21.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .navbar-7gj .background-navbar-34b {
+  width: 172.8rem;
+  height: 18.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffb606;
+}
+.lm-menu-page-makanan-dWf .navbar-7gj .log-out-button-vu5 a{
+  width: 19.9rem;
+  height: 6.7951rem;
+  cursor: pointer;
+  position: absolute;
+  left: 145rem;
+  top: 5.9rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffb606;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1c1c1c;
+  border-radius: 2.5rem;
+  text-decoration: none;
+}
+.lm-menu-page-makanan-dWf .navbar-7gj .outlet-v1u a{
+  width: 12rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 129.1rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.lm-menu-page-makanan-dWf .navbar-7gj .activity-BTd a{
+  width: 14.8rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 110.5rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.lm-menu-page-makanan-dWf .navbar-7gj .menu-SuM a{
+  width: 11.1rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 92.7rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.lm-menu-page-makanan-dWf .navbar-7gj .home-irs a{
+  width: 12.7rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 73.9rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.lm-menu-page-makanan-dWf .navbar-7gj .logo-moro-artos-RmH {
+  width: 21.3rem;
+  height: 21.3rem;
+  position: absolute;
+  left: 10rem;
+  top: -10px;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+/*==========================================================================================================*/
+
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu {
+  box-sizing: border-box;
+  padding: 6.5rem 0rem 15.9rem 2.05rem;
+  width: 100%;
+  height: 320.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .button-menu-rrb {
+  margin: 0rem 17.3rem 11.8rem 15.25rem;
+  width: calc(100% - 32.55rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .button-menu-rrb .auto-group-htko-aGo {
+  margin: 0rem 0.1rem 2.6rem 0rem;
+  width: calc(100% - 0.1rem);
+  height: 6.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .button-menu-rrb .auto-group-htko-aGo .paket-6F9 a{
+  margin-right: 5.2rem;
+  width: 67.2rem;
+  height: 62px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: #1c1c1c;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .button-menu-rrb .auto-group-htko-aGo .ekstra-k4o a{
+  width: 65.7rem;
+  height: 62px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: #1c1c1c;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .button-menu-rrb .auto-group-rqz3-cco {
+  margin-left: 0.1rem;
+  height: 6.4rem;
+  display: flex;
+  column-gap: 6.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .button-menu-rrb .auto-group-rqz3-cco .makanan-kDD a{
+  width: 41.9rem;
+  height: 62px;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  background-color: #ffb606;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .button-menu-rrb .auto-group-rqz3-cco .minuman-pTy a{
+  width: 41.9rem;
+  height: 62px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: #1c1c1c;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .button-menu-rrb .auto-group-rqz3-cco .cemilan-6Ab a{
+  width: 41.9rem;
+  height: 62px;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: #1c1c1c;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+
+/*==========================================================================================================*/
+
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy {
+  width: 171rem;
+  row-gap: 9rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h {
+  margin: 0rem 13.55rem 0rem 11.25rem;
+  width: calc(100% - 24.8rem);
+  height: 61rem;
+  display: flex;
+  column-gap: 13.1rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-magelangan-pVu {
+  box-sizing: border-box;
+  padding: 2.2rem 5rem 3.914rem 5rem;
+  width: 40rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c1c;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-magelangan-pVu .ellipse-2-voq {
+  margin-bottom: 3.6rem;
+  width: 100%;
+  height: 30rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-nb9.png');
+  border-radius: 15rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-magelangan-pVu .nasi-magelangan-1qH {
+  margin-bottom: 2.6rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-magelangan-pVu .rp14100-wD9 {
+  margin: 0rem 0.1rem 2.6rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffb606;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-magelangan-pVu .nasi-goreng-yang-dicampur-dengan-mie-ditambah-dengan-sayur-dan-krupuk-Exw {
+  margin: 0rem 0.1rem 2.6rem 0rem;
+  max-width: 24.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: center;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-magelangan-pVu .auto-group-ihh1-6kF {
+  margin: 0rem 5.7rem 0rem 5.6rem;
+  width: calc(100% - 11.3rem);
+  height: 3.8857rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffb606;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-telur-sosis-j2X {
+  box-sizing: border-box;
+  padding: 2.2rem 5rem 3.914rem 5rem;
+  width: 40rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c1c;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-telur-sosis-j2X .ellipse-2-ddh {
+  margin-bottom: 4.1rem;
+  width: 100%;
+  height: 30rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-Wf1.png');
+  border-radius: 15rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-telur-sosis-j2X .nasi-telur-sosis-jAw {
+  margin-bottom: 2.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-telur-sosis-j2X .rp10800-FQB {
+  margin-bottom: 2.3rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffb606;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-telur-sosis-j2X .nasi-putih-yang-hangat-dengan-lauk-sosis-yang-dimasak-bersama-telur-yLB {
+  margin: 0rem 0.1rem 2.7rem 0rem;
+  max-width: 18.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: center;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-telur-sosis-j2X .auto-group-ymb5-qtB {
+  margin: 0rem 5.7rem 0rem 5.6rem;
+  width: calc(100% - 11.3rem);
+  height: 3.8857rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffb606;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-orak-arik-telur-sps {
+  box-sizing: border-box;
+  padding: 2.2rem 5rem 3.914rem 5rem;
+  width: 40rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c1c;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-orak-arik-telur-sps .ellipse-3-CMM {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 30rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-3-bg-2UX.png');
+  border-radius: 15rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-orak-arik-telur-sps .nasi-orak-arik-telur-hZ1 {
+  margin: 0rem 0.1rem 2.4rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-orak-arik-telur-sps .rp10800-QiK {
+  margin-bottom: 2.4rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffb606;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-orak-arik-telur-sps .nasi-putih-yang-hangat-dengan-lauk-telur-orak-arik-yang-diberi-bumbu-kecap-8eK {
+  margin: 0rem 0.1rem 2.6rem 0rem;
+  max-width: 20.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: center;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-wpt7-75h .nasi-orak-arik-telur-sps .auto-group-a3ep-QLw {
+  margin: 0rem 5.7rem 0rem 5.6rem;
+  width: calc(100% - 11.3rem);
+  height: 3.8857rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffb606;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM {
+  margin-left: 1.55rem;
+  width: 169.45rem;
+  height: 61rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-telur-NSB {
+  width: 59.3rem;
+  height: 61rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-telur-NSB .rectangle-46-uBD {
+  width: 40rem;
+  height: 61rem;
+  position: absolute;
+  left: 9.7rem;
+  top: 0;
+  box-sizing: border-box;
+  background-color: #1c1c1c;
+  border-radius: 2rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-telur-NSB .ellipse-2-cbR {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 2.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-8Cw.png');
+  border-radius: 15rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-telur-NSB .nasi-telur-ceplok-dadar-uKd {
+  width: 29.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 35.8rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-telur-NSB .rp9200-zby {
+  width: 9.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 24.9rem;
+  top: 40.8rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffb606;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-telur-NSB .rectangle-49-VHq {
+  width: 18.7rem;
+  height: 3.8857rem;
+  position: absolute;
+  left: 20.3rem;
+  top: 53.2rem;
+  background-color: #ffb606;
+  border-radius: 2.5rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-telur-NSB .nasi-putih-yang-hangat-dengan-lauk-telur-ceplok-atau-telur-dadar-yang-gurih-RBV {
+  width: 59.3rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 47.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-align: center;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-telur-NSB .order-JFH {
+  width: 6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 26.7rem;
+  top: 54.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-sarden-19h {
+  width: 55.3rem;
+  height: 61rem;
+  position: absolute;
+  left: 55rem;
+  top: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-sarden-19h .rectangle-46-jbV {
+  width: 40rem;
+  height: 61rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 0;
+  box-sizing: border-box;
+  background-color: #1c1c1c;
+  border-radius: 2rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-sarden-19h .nasi-sarden-eiT {
+  width: 14.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 20.6rem;
+  top: 35.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-sarden-19h .rp8000-kmV {
+  width: 9.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 40.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffb606;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-sarden-19h .rectangle-49-f7m {
+  width: 18.7rem;
+  height: 3.8857rem;
+  position: absolute;
+  left: 18.4rem;
+  top: 53.2rem;
+  background-color: #ffb606;
+  border-radius: 2.5rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-sarden-19h .nasi-putih-yang-hangat-dengan-lauk-sarden-yang-rasanya-asam-manis-N2B {
+  width: 55.3rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 47.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-align: center;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-sarden-19h .order-dio {
+  width: 6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 24.8rem;
+  top: 54.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-sarden-19h .ellipse-2-jG3 {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 2.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-q4b.png');
+  border-radius: 15rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-telur-sarden-Ref {
+  width: 67.2rem;
+  height: 61rem;
+  position: absolute;
+  left: 102.25rem;
+  top: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-telur-sarden-Ref .rectangle-46-YjH {
+  width: 40rem;
+  height: 61rem;
+  position: absolute;
+  left: 13.65rem;
+  top: 0;
+  box-sizing: border-box;
+  background-color: #1c1c1c;
+  border-radius: 2rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-telur-sarden-Ref .nasi-telur-sarden-U79 {
+  width: 20.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 23.45rem;
+  top: 35.6rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-telur-sarden-Ref .rp12000-mM9 {
+  width: 10.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 28.45rem;
+  top: 40.8rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffb606;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-telur-sarden-Ref .rectangle-49-suy {
+  width: 18.7rem;
+  height: 3.8857rem;
+  position: absolute;
+  left: 24.25rem;
+  top: 53.2rem;
+  background-color: #ffb606;
+  border-radius: 2.5rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-telur-sarden-Ref .nasi-putih-yang-hangat-dengan-lauk-sarden-yang-rasanya-asam-manis-ditambah-telur-1mH {
+  width: 67.2rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 47.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-align: center;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-telur-sarden-Ref .order-Gx7 {
+  width: 6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 30.65rem;
+  top: 54.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-fzcj-qBM .nasi-telur-sarden-Ref .ellipse-2-vFy {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 18.65rem;
+  top: 2.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-iby.png');
+  border-radius: 15rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 {
+  width: 165.6rem;
+  height: 61rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .nasi-ayam-bali-9eX {
+  width: 62.4rem;
+  height: 61rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .nasi-ayam-bali-9eX .rectangle-46-guM {
+  width: 40rem;
+  height: 61rem;
+  position: absolute;
+  left: 11.25rem;
+  top: 0;
+  box-sizing: border-box;
+  background-color: #1c1c1c;
+  border-radius: 2rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .nasi-ayam-bali-9eX .nasi-ayam-bali-1gj {
+  width: 17.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 22.45rem;
+  top: 35.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .nasi-ayam-bali-9eX .rp13700-ib9 {
+  width: 10.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 26.15rem;
+  top: 40.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffb606;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .nasi-ayam-bali-9eX .rectangle-49-Dno {
+  width: 18.7rem;
+  height: 3.8857rem;
+  position: absolute;
+  left: 21.85rem;
+  top: 53.2rem;
+  background-color: #ffb606;
+  border-radius: 2.5rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .nasi-ayam-bali-9eX .nasi-putih-yang-hangat-dengan-lauk-ayam-yang-diberi-sambal-matah-diatasnya-izT {
+  width: 62.4rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 47.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-align: center;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .nasi-ayam-bali-9eX .order-nDd {
+  width: 6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 28.25rem;
+  top: 54.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .nasi-ayam-bali-9eX .ellipse-2-UMM {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 16.25rem;
+  top: 2.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-tX1.png');
+  border-radius: 15rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .nasi-ayam-geprek-Azs {
+  width: 66.2rem;
+  height: 61rem;
+  position: absolute;
+  left: 51.2rem;
+  top: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .nasi-ayam-geprek-Azs .rectangle-46-hju {
+  width: 40rem;
+  height: 61rem;
+  position: absolute;
+  left: 13.15rem;
+  top: 0;
+  box-sizing: border-box;
+  background-color: #1c1c1c;
+  border-radius: 2rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .nasi-ayam-geprek-Azs .nasi-ayam-geprek-d7m {
+  width: 21.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 22.25rem;
+  top: 35.6rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .nasi-ayam-geprek-Azs .rp12000-vcf {
+  width: 10.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 28rem;
+  top: 40.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffb606;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .nasi-ayam-geprek-Azs .rectangle-49-nPy {
+  width: 18.7rem;
+  height: 3.8857rem;
+  position: absolute;
+  left: 23.75rem;
+  top: 53.2rem;
+  background-color: #ffb606;
+  border-radius: 2.5rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .nasi-ayam-geprek-Azs .nasi-putih-yang-hangat-dengan-lauk-ayam-geprek-dengan-campuran-sambal-geprek-uzP {
+  width: 66.2rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 47.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-align: center;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .nasi-ayam-geprek-Azs .order-yzF {
+  width: 6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 30.15rem;
+  top: 54.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .nasi-ayam-geprek-Azs .ellipse-2-HEF {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 18.15rem;
+  top: 2.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-1ew.png');
+  border-radius: 15rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .indomie-telur-nRu {
+  width: 56.4rem;
+  height: 61rem;
+  position: absolute;
+  left: 109.2rem;
+  top: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .indomie-telur-nRu .rectangle-46-iaT {
+  width: 40rem;
+  height: 61rem;
+  position: absolute;
+  left: 8.25rem;
+  top: 0;
+  box-sizing: border-box;
+  background-color: #1c1c1c;
+  border-radius: 2rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .indomie-telur-nRu .indomie-telur-3Mq {
+  width: 16rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 20.25rem;
+  top: 35.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .indomie-telur-nRu .rp12500-6b1 {
+  width: 10.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 23.1rem;
+  top: 40.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffb606;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .indomie-telur-nRu .rectangle-49-CP9 {
+  width: 18.7rem;
+  height: 3.8857rem;
+  position: absolute;
+  left: 18.85rem;
+  top: 53.2rem;
+  background-color: #ffb606;
+  border-radius: 2.5rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .indomie-telur-nRu .dua-karbohidrat-yang-dimakan-bersamaan-dengan-lauk-telur-yang-gurih-icP {
+  width: 56.4rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 47.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-align: center;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .indomie-telur-nRu .order-CXZ {
+  width: 6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 25.25rem;
+  top: 54.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .auto-group-vveo-QS3 .indomie-telur-nRu .ellipse-2-iF1 {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 13.25rem;
+  top: 2.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-5Km.png');
+  border-radius: 15rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .nasi-kuning-DSf {
+  margin-left: 3.8rem;
+  width: 54.8rem;
+  height: 61rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .nasi-kuning-DSf .rectangle-46-9r7 {
+  width: 40rem;
+  height: 61rem;
+  position: absolute;
+  left: 7.45rem;
+  top: 0;
+  box-sizing: border-box;
+  background-color: #1c1c1c;
+  border-radius: 2rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .nasi-kuning-DSf .nasi-kuning-dFV {
+  width: 13.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 20.45rem;
+  top: 35.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .nasi-kuning-DSf .rp17000-X5y {
+  width: 10.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 22.35rem;
+  top: 40.8rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffb606;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .nasi-kuning-DSf .rectangle-49-pas {
+  width: 18.7rem;
+  height: 3.8857rem;
+  position: absolute;
+  left: 18.05rem;
+  top: 53.2rem;
+  background-color: #ffb606;
+  border-radius: 2.5rem;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .nasi-kuning-DSf .nasi-kuning-yang-memiliki-aromatik-yang-sedap-dengan-berbagai-lauk-A8w {
+  width: 54.8rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 47.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-align: center;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .nasi-kuning-DSf .order-r1m {
+  width: 6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 24.45rem;
+  top: 54.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-makanan-dWf .auto-group-hnfr-Yqu .list-makanan-ZZy .nasi-kuning-DSf .ellipse-2-k79 {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 12.45rem;
+  top: 2.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-RTu.png');
+  border-radius: 15rem;
+}
+
+/*==========================================================================================================*/
+
+.lm-menu-page-makanan-dWf .dashboard-dgj {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0rem 5.8rem;
+  width: 196rem;
+  height: 21.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffb606;
+  flex-shrink: 0;
+  
+}
+.lm-menu-page-makanan-dWf .dashboard-dgj .logo-moro-artos-MMq {
+  margin-right: 15.2rem;
+  width: 21.3rem;
+  height: 21.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .dashboard-dgj .privacy-UST {
+  margin: 9.3rem 21.3rem 9.2rem 0rem;
+  height: calc(100% - 18.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .dashboard-dgj .privacy-UST .privacy-C7Z {
+  margin: 0rem 0.7rem 0.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .dashboard-dgj .privacy-UST .rectangle-38-VcT {
+  margin-right: 0.7rem;
+  width: 0.2rem;
+  height: 2.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .dashboard-dgj .privacy-UST .trems-of-use-EK9 {
+  margin: 0rem 0.7rem 0.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .dashboard-dgj .privacy-UST .rectangle-39-vhm {
+  margin-right: 0.7rem;
+  width: 0.2rem;
+  height: 2.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .dashboard-dgj .privacy-UST .sitemap-fvF {
+  margin: 0rem 0.8rem 0.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .dashboard-dgj .privacy-UST .rectangle-40-xeT {
+  margin-right: 0.7rem;
+  width: 0.2rem;
+  height: 2.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .dashboard-dgj .privacy-UST .costumer-support-VPV {
+  margin-right: 0.7rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .dashboard-dgj .privacy-UST .rectangle-41-DKV {
+  margin-right: 0.7rem;
+  width: 0.2rem;
+  height: 2.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .dashboard-dgj .privacy-UST .accesbility-statement-MRh {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-makanan-dWf .dashboard-dgj .dark-mode-gD5{
+  margin-bottom: 8.5rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.lm-menu-page-makanan-dWf .dashboard-dgj .dark-mode-xW3 a{
+  margin-bottom: 8.5rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}

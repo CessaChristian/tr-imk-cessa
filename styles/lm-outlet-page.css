@@ -1,0 +1,341 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+.lm-outlet-page-pUP {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.lm-outlet-page-pUP .navbar-A2T {
+  width: 100%;
+  height: 21.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .navbar-A2T .background-6wh {
+  width: 172.8rem;
+  height: 18.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #a51c06;
+}
+.lm-outlet-page-pUP .navbar-A2T .home-rAB a{
+  width: 12.7rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 73.9rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.lm-outlet-page-pUP .navbar-A2T .frame-141-8tP a{
+  width: 19.9rem;
+  height: 6.7951rem;
+  cursor: pointer;
+  position: absolute;
+  left: 145rem;
+  top: 5.9rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #a51c06;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f5de9e;
+  border-radius: 2.5rem;
+  text-decoration: none;
+}
+.lm-outlet-page-pUP .navbar-A2T .frame-138-ojd a{
+  width: 15.3rem;
+  height: 7.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 90.4rem;
+  top: 5rem;
+  overflow: hidden;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+.lm-outlet-page-pUP .navbar-A2T .image-1-u1y {
+  width: 21.3rem;
+  height: 21.3rem;
+  position: absolute;
+  left: 10rem;
+  top: -10px;
+  object-fit: cover;
+  vertical-align: top;
+}
+.lm-outlet-page-pUP .navbar-A2T .frame-139-dyZ a{
+  width: 19.1rem;
+  height: 9.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 108.5rem;
+  top: 4.7rem;
+  overflow: hidden;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+.lm-outlet-page-pUP .navbar-A2T .frame-140-8QX a{
+  width: 14.6rem;
+  height: 8.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 127.6rem;
+  top: 5rem;
+  overflow: hidden;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+.lm-outlet-page-pUP .auto-group-a5sp-oFm {
+  box-sizing: border-box;
+  padding: 5.6rem 8.8rem 15.7rem 8.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .auto-group-a5sp-oFm .searching-bar-vLP {
+  margin: 0rem 27.7rem 5.6rem 27.7rem;
+  box-sizing: border-box;
+  padding: 1.3rem 2.9rem 1.2rem 3.4rem;
+  width: calc(100% - 55.4rem);
+  height: 6.3rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .auto-group-a5sp-oFm .searching-bar-vLP .find-our-location--1Mq {
+  margin: 0rem 4.8rem 0.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .auto-group-a5sp-oFm .searching-bar-vLP .auto-group-hbex-uy1 {
+  box-sizing: border-box;
+  padding: 0.1rem 1.1rem 0rem 1.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .auto-group-a5sp-oFm .searching-bar-vLP .auto-group-hbex-uy1 .enter-search-location-qLs {
+  margin: 0rem 38.2rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: rgba(115, 115, 115, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .auto-group-a5sp-oFm .searching-bar-vLP .auto-group-hbex-uy1 .rectangle-45-XzP {
+  margin-right: 1.3rem;
+  width: 0.1rem;
+  height: 3.7rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .auto-group-a5sp-oFm .searching-bar-vLP .auto-group-hbex-uy1 .x-HCs {
+  margin-bottom: 0.1rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .auto-group-a5sp-oFm .google-map-LS3 {
+  width: 155.2rem;
+  height: 60.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .dashboard-Uo9 {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0rem 5.8rem;
+  width: 196rem;
+  height: 21.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #a51c06;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .dashboard-Uo9 .logo-moro-artos-12P {
+  margin-right: 15.2rem;
+  width: 21.3rem;
+  height: 21.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .dashboard-Uo9 .privacy-jyy {
+  margin: 9.3rem 21.3rem 9.2rem 0rem;
+  height: calc(100% - 18.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .dashboard-Uo9 .privacy-jyy .privacy-GDD {
+  margin: 0rem 0.7rem 0.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .dashboard-Uo9 .privacy-jyy .rectangle-38-P2w {
+  margin-right: 0.7rem;
+  width: 0.2rem;
+  height: 2.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .dashboard-Uo9 .privacy-jyy .trems-of-use-u1H {
+  margin: 0rem 0.7rem 0.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .dashboard-Uo9 .privacy-jyy .rectangle-39-y19 {
+  margin-right: 0.7rem;
+  width: 0.2rem;
+  height: 2.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .dashboard-Uo9 .privacy-jyy .sitemap-tto {
+  margin: 0rem 0.8rem 0.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .dashboard-Uo9 .privacy-jyy .rectangle-40-oF5 {
+  margin-right: 0.7rem;
+  width: 0.2rem;
+  height: 2.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .dashboard-Uo9 .privacy-jyy .costumer-support-w6P {
+  margin-right: 0.7rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .dashboard-Uo9 .privacy-jyy .rectangle-41-fHH {
+  margin-right: 0.7rem;
+  width: 0.2rem;
+  height: 2.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .dashboard-Uo9 .privacy-jyy .accesbility-statement-oeP {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-outlet-page-pUP .dashboard-Uo9 .dark-mode-xW3 a{
+  margin-bottom: 8.5rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}

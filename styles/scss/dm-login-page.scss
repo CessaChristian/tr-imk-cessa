@@ -1,0 +1,189 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 172.8rem;
+}.dm-login-page-QqM {
+  padding-right: 8.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #3b3b3b;
+  box-sizing: border-box;
+
+  .background-picture-k8X {
+    flex-shrink: 0;
+    margin-right: 8.2rem;
+    width: 116rem;
+    height: 111.7rem;
+    object-fit: cover;
+    vertical-align: top;
+  }
+  .auto-group-1a95-syq {
+    flex-shrink: 0;
+    margin-top: 0.8rem;
+    width: 40rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    .logo-moro-artos-Qis {
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-bottom: 12.8rem;
+      width: 40rem;
+      height: 40rem;
+      object-fit: cover;
+    }
+    .coloum-login-9RZ {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .auto-group-fmjm-JZM {
+        margin-bottom: 1.4243rem;
+        padding: 2.018rem 20.442rem 2.07rem 2.018rem;
+        border: solid 0.1rem #666666;
+        box-sizing: border-box;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        border-radius: 0.5rem;
+        flex-shrink: 0;
+
+        .vector-d5q {
+          margin-right: 4.7478rem;
+          width: 2.4926rem;
+          height: 3.2715rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .username-82b {
+          font-size: 2rem;
+          display: flex;
+          font-weight: 300;
+          line-height: 0.8;
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-top: 0.0519rem;
+        }
+      }
+      .auto-group-mj8o-PDR {
+        margin-bottom: 1.2398rem;
+        border: solid 0.1rem #666666;
+        border-radius: 0.5rem;
+        box-sizing: border-box;
+        padding: 2.255rem 1.78rem 2.196rem 2.018rem;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .vector-79R {
+          flex-shrink: 0;
+          margin-right: 4.7478rem;
+          width: 2.4926rem;
+          height: 2.908rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+        .password-FWX {
+          font-size: 2rem;
+          font-weight: 300;
+          color: #ffffff;
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0rem 16.631rem 0.059rem 0rem;
+          display: flex;
+          line-height: 0.8;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+        .vector-mUs {
+          margin-bottom: 0.1223rem;
+          width: 2.73rem;
+          height: 2.0736rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+      .forgot-password-61M {
+        font-size: 1.5rem;
+        font-weight: 400;
+        line-height: 0.8;
+        color: #ffffff;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        display: flex;
+      }
+    }
+    .auto-group-ahjv-zMd {
+      padding: 7.818rem 1.6rem 0rem 1.6rem;
+      width: 100%;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      box-sizing: border-box;
+
+      .button-login-txo {
+        cursor: pointer;
+        align-items: center;
+        justify-content: center;
+        line-height: 0.8000000119;
+        color: #ffffff;
+        margin: 0rem 4.2rem 11.25rem 4.3rem;
+        border-radius: 0.5rem;
+        flex-shrink: 0;
+        width: calc(100% - 8.5rem);
+        background-color: #ffb606;
+        height: 6.2rem;
+        display: flex;
+        font-size: 3.2rem;
+        font-weight: 700;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .dont-have-account-crate-a-new-account-tbR {
+        font-size: 1.5rem;
+        font-weight: 400;
+        font-family: Poppins, 'Source Sans Pro';
+        align-items: baseline;
+        flex-shrink: 0;
+        display: flex;
+        line-height: 0.8;
+        color: #ffb606;
+        white-space: nowrap;
+        margin-right: 5.1rem;
+
+        .dont-have-account-crate-a-new-account-tbR-sub-0 {
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 1.5rem;
+          font-weight: 400;
+          line-height: 0.8;
+        }
+        .dont-have-account-crate-a-new-account-tbR-sub-1 {
+        }
+      }
+    }
+  }
+}

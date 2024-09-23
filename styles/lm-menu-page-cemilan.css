@@ -1,0 +1,1063 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+
+.lm-menu-page-cemilan-TF5 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.lm-menu-page-cemilan-TF5 .navbar-PuR {
+  width: 100%;
+  height: 21.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .navbar-PuR .background-navbar-YnK {
+  width: 172.8rem;
+  height: 18.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #a51c06;
+}
+.lm-menu-page-cemilan-TF5 .navbar-PuR .log-out-button-HV1 a{
+  width: 19.9rem;
+  height: 6.7951rem;
+  cursor: pointer;
+  position: absolute;
+  left: 145rem;
+  top: 5.9rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #a51c06;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f5de9e;
+  border-radius: 2.5rem;
+  text-decoration: none;
+}
+.lm-menu-page-cemilan-TF5 .navbar-PuR .outlet-LiB a{
+  width: 12rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 129.1rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.lm-menu-page-cemilan-TF5 .navbar-PuR .activity-dxB a{
+  width: 14.8rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 110.5rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.lm-menu-page-cemilan-TF5 .navbar-PuR .menu-kG7 a{
+  width: 11.1rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 92.7rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.lm-menu-page-cemilan-TF5 .navbar-PuR .home-TRR a{
+  width: 12.7rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 73.9rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.lm-menu-page-cemilan-TF5 .navbar-PuR .logo-moro-artos-NYP {
+  width: 21.3rem;
+  height: 21.3rem;
+  position: absolute;
+  left: 10rem;
+  top: -10px;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X {
+  box-sizing: border-box;
+  padding: 6.5rem 0rem 8.1rem 0rem;
+  width: 100%;
+  height: 242.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .button-menu-2N3 {
+  margin: 0rem 17.3rem 11.8rem 17.3rem;
+  width: calc(100% - 34.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .button-menu-2N3 .auto-group-vrgt-Z75 {
+  margin: 0rem 0.1rem 2.6rem 0rem;
+  width: calc(100% - 0.1rem);
+  height: 6.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .button-menu-2N3 .auto-group-vrgt-Z75 .frame-161-H35 a{
+  margin-right: 5.2rem;
+  width: 67.2rem;
+  height: 62px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .button-menu-2N3 .auto-group-vrgt-Z75 .frame-163-Xy1 a{
+  width: 65.7rem;
+  height: 62px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .button-menu-2N3 .auto-group-sy6b-pBR {
+  margin-left: 0.1rem;
+  height: 6.4rem;
+  display: flex;
+  column-gap: 6.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .button-menu-2N3 .auto-group-sy6b-pBR .frame-160-kas a{
+  width: 41.9rem;
+  height: 62px;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .button-menu-2N3 .auto-group-sy6b-pBR .frame-162-dPm a{
+  width: 41.9rem;
+  height: 62px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .button-menu-2N3 .auto-group-sy6b-pBR .frame-164-WiT a{
+  width: 41.9rem;
+  height: 62px;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  background-color: #a51c06;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z {
+  margin-top: 120px;
+  margin-right: 3.25rem;
+  width: 173.05rem;
+  row-gap: 9rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD {
+  margin: 0rem 10.05rem 0rem 16.8rem;
+  width: calc(100% - 26.85rem);
+  height: 61rem;
+  display: flex;
+  column-gap: 13.1rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .bubur-kacang-hijau-cuu {
+  box-sizing: border-box;
+  padding: 2.2rem 5rem 3.914rem 5rem;
+  width: 40rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #818181;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .bubur-kacang-hijau-cuu .ellipse-3-jjd {
+  margin-bottom: 3.6rem;
+  width: 100%;
+  height: 30rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-3-bg-xJ3.png');
+  border-radius: 15rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .bubur-kacang-hijau-cuu .bubur-kacang-hijau-Duh {
+  margin: 0rem 0.2rem 2.6rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .bubur-kacang-hijau-cuu .rp7000-jNF {
+  margin: 0rem 0.9rem 2.6rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #a51c06;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .bubur-kacang-hijau-cuu .bubur-yang-terbuat-dari-kacang-hijau-dan-santan-yang-memiliki-rasa-manis-dan-gurih-eEK {
+  margin: 0rem 0.1rem 2.6rem 0rem;
+  max-width: 22.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #848181;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: center;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .bubur-kacang-hijau-cuu .auto-group-75j5-KLT {
+  margin: 0rem 5.7rem 0rem 5.6rem;
+  width: calc(100% - 11.3rem);
+  height: 3.8857rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #a51c06;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .tempe-goreng-wsd {
+  box-sizing: border-box;
+  padding: 2.2rem 5rem 3.914rem 5rem;
+  width: 40rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #818181;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .tempe-goreng-wsd .ellipse-2-rjh {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 30rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-N8o.png');
+  border-radius: 15rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .tempe-goreng-wsd .tempe-goreng-ZPD {
+  margin-bottom: 2.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .tempe-goreng-wsd .rp1000-HKD {
+  margin: 0rem 0.8rem 1.8rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #a51c06;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .tempe-goreng-wsd .gorengan-khas-indonesia-yang-sangat-cocok-dilidah-masyarakat-yang-terbuat-dari-tempe-nWs {
+  margin: 0rem 0rem 3.4rem 0.1rem;
+  max-width: 26rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #848181;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: center;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .tempe-goreng-wsd .auto-group-dm67-rmd {
+  margin: 0rem 5.7rem 0rem 5.6rem;
+  width: calc(100% - 11.3rem);
+  height: 3.8857rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #a51c06;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .tahu-goreng-6R5 {
+  box-sizing: border-box;
+  padding: 2.2rem 5rem 3.914rem 5rem;
+  width: 40rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #818181;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .tahu-goreng-6R5 .ellipse-2-RCT {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 30rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-wCT.png');
+  border-radius: 15rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .tahu-goreng-6R5 .tahu-goreng-LKR {
+  margin: 0rem 0rem 2.2rem 0.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .tahu-goreng-6R5 .rp1000-eL7 {
+  margin: 0rem 0.8rem 2.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #a51c06;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .tahu-goreng-6R5 .gorengan-khas-indonesia-yang-sangat-cocok-dilidah-masyarakat-yang-terbuat-dari-tahu-xLo {
+  margin-bottom: 3rem;
+  max-width: 26rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #848181;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: center;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-inzs-JuD .tahu-goreng-6R5 .auto-group-c3jx-FKu {
+  margin: 0rem 5.7rem 0rem 5.6rem;
+  width: calc(100% - 11.3rem);
+  height: 3.8857rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #a51c06;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP {
+  margin-left: 1.15rem;
+  width: 171.9rem;
+  height: 61rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .bakwan-Rdh {
+  width: 71.2rem;
+  height: 61rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .bakwan-Rdh .rectangle-46-AbH {
+  width: 40rem;
+  height: 61rem;
+  position: absolute;
+  left: 13.3rem;
+  top: 0;
+  border: solid 0.1rem #818181;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .bakwan-Rdh .ellipse-2-4gf {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 18.3rem;
+  top: 2.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-NKH.png');
+  border-radius: 15rem;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .bakwan-Rdh .bakwan-kJb {
+  width: 9.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 28.6rem;
+  top: 36.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .bakwan-Rdh .rp1000-3oV {
+  width: 9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 28.4rem;
+  top: 40.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #a51c06;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .bakwan-Rdh .rectangle-49-MZH {
+  width: 18.7rem;
+  height: 3.8857rem;
+  position: absolute;
+  left: 23.9rem;
+  top: 53.2rem;
+  background-color: #a51c06;
+  border-radius: 2.5rem;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .bakwan-Rdh .gorengan-khas-indonesia-yang-sangat-cocok-dilidah-masyarakat-yang-terbuat-dari-sayuran-5kB {
+  width: 71.2rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 46.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #848181;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-align: center;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .bakwan-Rdh .order-wnP {
+  width: 6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 30.3rem;
+  top: 54.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .bakwan-jagung-FHH {
+  width: 70.3rem;
+  height: 61rem;
+  position: absolute;
+  left: 51.25rem;
+  top: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .bakwan-jagung-FHH .rectangle-46-yUB {
+  width: 40rem;
+  height: 61rem;
+  position: absolute;
+  left: 15.15rem;
+  top: 0;
+  border: solid 0.1rem #818181;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .bakwan-jagung-FHH .ellipse-2-VBd {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 20.15rem;
+  top: 2.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-mBV.png');
+  border-radius: 15rem;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .bakwan-jagung-FHH .bakwan-jagung-aym {
+  width: 19rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 25.7rem;
+  top: 36.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .bakwan-jagung-FHH .rp1000-6SK {
+  width: 9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 30.25rem;
+  top: 40.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #a51c06;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .bakwan-jagung-FHH .rectangle-49-asH {
+  width: 18.7rem;
+  height: 3.8857rem;
+  position: absolute;
+  left: 25.75rem;
+  top: 53.2rem;
+  background-color: #a51c06;
+  border-radius: 2.5rem;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .bakwan-jagung-FHH .gorengan-khas-indonesia-yang-sangat-cocok-dilidah-masyarakat-yang-terbuat-dari-jagung-7cK {
+  width: 70.3rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 46.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #848181;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-align: center;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .bakwan-jagung-FHH .order-zAK {
+  width: 6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 32.15rem;
+  top: 54.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .pisang-goreng-GNj {
+  width: 60.2rem;
+  height: 61rem;
+  position: absolute;
+  left: 109.35rem;
+  top: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .pisang-goreng-GNj .rectangle-46-C1V {
+  width: 40rem;
+  height: 61rem;
+  position: absolute;
+  left: 10.15rem;
+  top: 0;
+  border: solid 0.1rem #818181;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .pisang-goreng-GNj .ellipse-2-78T {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 15.15rem;
+  top: 2.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-oVZ.png');
+  border-radius: 15rem;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .pisang-goreng-GNj .pisang-goreng-1Dq {
+  width: 17.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 21.55rem;
+  top: 36.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .pisang-goreng-GNj .rp14100-WRV {
+  width: 9.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 25.25rem;
+  top: 40.8rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #a51c06;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .pisang-goreng-GNj .rectangle-49-czK {
+  width: 18.7rem;
+  height: 3.8857rem;
+  position: absolute;
+  left: 20.75rem;
+  top: 53.2rem;
+  background-color: #a51c06;
+  border-radius: 2.5rem;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .pisang-goreng-GNj .nasi-goreng-yang-dicampur-dengan-mie-ditambah-dengan-sayur-dan-krupuk-9zF {
+  width: 60.2rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 47.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #848181;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-align: center;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-sxgp-HnP .pisang-goreng-GNj .order-EVu {
+  width: 6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 27.15rem;
+  top: 54.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm {
+  width: 122.3rem;
+  height: 61rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm .pisang-coklat-4zj {
+  width: 74.9rem;
+  height: 61rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm .pisang-coklat-4zj .rectangle-46-cFZ {
+  width: 40rem;
+  height: 61rem;
+  position: absolute;
+  left: 13.3rem;
+  top: 0;
+  border: solid 0.1rem #818181;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm .pisang-coklat-4zj .ellipse-2-jLB {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 18.3rem;
+  top: 2.2rem;
+
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-b9q.png');
+  border-radius: 15rem;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm .pisang-coklat-4zj .pisang-coklat-dgT {
+  width: 16.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 25.3rem;
+  top: 36.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm .pisang-coklat-4zj .rp1500-jzP {
+  width: 9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 28.4rem;
+  top: 40.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #a51c06;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm .pisang-coklat-4zj .rectangle-49-r3R {
+  width: 18.7rem;
+  height: 3.8857rem;
+  position: absolute;
+  left: 23.9rem;
+  top: 53.2rem;
+  background-color: #a51c06;
+  border-radius: 2.5rem;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm .pisang-coklat-4zj .kulit-luaran-yang-renyah-dengan-isian-pisang-dan-coklat-premium-sehingga-memiliki-rasa-manis-ak7 {
+  width: 74.9rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 46.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #848181;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-align: center;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm .pisang-coklat-4zj .order-rxX {
+  width: 6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 30.3rem;
+  top: 54.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm .kerupuk-y1Z {
+  width: 64.9rem;
+  height: 61rem;
+  position: absolute;
+  left: 53.9rem;
+  top: 0;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm .kerupuk-y1Z .rectangle-46-77m {
+  width: 40rem;
+  height: 61rem;
+  position: absolute;
+  left: 12.5rem;
+  top: 0;
+  border: solid 0.1rem #818181;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm .kerupuk-y1Z .ellipse-2-q3m {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 17.5rem;
+  top: 2.2rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-D4b.png');
+  border-radius: 15rem;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm .kerupuk-y1Z .kerupuk-jQ3 {
+  width: 9.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 27.65rem;
+  top: 36.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm .kerupuk-y1Z .rp500-Ebh {
+  width: 7.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 27.6rem;
+  top: 40.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #a51c06;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm .kerupuk-y1Z .rectangle-49-x1u {
+  width: 18.7rem;
+  height: 3.8857rem;
+  position: absolute;
+  left: 23.1rem;
+  top: 53.2rem;
+  background-color: #a51c06;
+  border-radius: 2.5rem;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm .kerupuk-y1Z .kerupuk-yang-memiliki-rasa-gurih-terbuat-dari-tepung-dan-campuran-bawang-putih-tAT {
+  width: 64.9rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 47.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #848181;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-align: center;
+}
+.lm-menu-page-cemilan-TF5 .auto-group-c89d-u2X .list-cemilan-P1Z .auto-group-avzq-jBm .kerupuk-y1Z .order-ZnP {
+  width: 6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 29.5rem;
+  top: 54.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}

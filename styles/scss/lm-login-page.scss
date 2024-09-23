@@ -1,0 +1,189 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 172.8rem;
+}.lm-login-page-Evs {
+  padding-right: 8.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+  box-sizing: border-box;
+
+  .background-picture-mvo {
+    width: 116rem;
+    height: 111.7rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+    margin-right: 8.2rem;
+  }
+  .auto-group-nomq-7Dy {
+    margin-top: 0.8rem;
+    width: 40rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    .logo-moro-artos-Sn3 {
+      height: 40rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-bottom: 12.8rem;
+      width: 40rem;
+    }
+    .coloum-login-adM {
+      flex-shrink: 0;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+
+      .auto-group-d1n7-wTu {
+        box-sizing: border-box;
+        padding: 2.018rem 20.442rem 2.07rem 2.018rem;
+        border-radius: 0.5rem;
+        flex-shrink: 0;
+        margin-bottom: 1.4243rem;
+        display: flex;
+        align-items: center;
+        border: solid 0.1rem #666666;
+        width: 100%;
+
+        .vector-4Hd {
+          margin-right: 4.7478rem;
+          width: 2.4926rem;
+          height: 3.2715rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .username-zh5 {
+          font-family: Poppins, 'Source Sans Pro';
+          font-weight: 300;
+          line-height: 0.8;
+          color: rgba(115, 115, 115, 0.8999999762);
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-top: 0.0519rem;
+          display: flex;
+          font-size: 2rem;
+        }
+      }
+      .auto-group-qk4o-UcF {
+        margin-bottom: 1.2398rem;
+        box-sizing: border-box;
+        width: 100%;
+        align-items: center;
+        padding: 2.255rem 1.78rem 2.196rem 2.018rem;
+        display: flex;
+        border: solid 0.1rem #666666;
+        border-radius: 0.5rem;
+        flex-shrink: 0;
+
+        .vector-o8j {
+          margin-right: 4.7478rem;
+          width: 2.4926rem;
+          height: 2.908rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .password-LuM {
+          line-height: 0.8;
+          color: rgba(115, 115, 115, 0.8999999762);
+          flex-shrink: 0;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          margin: 0rem 16.631rem 0.059rem 0rem;
+          display: flex;
+          font-size: 2rem;
+          font-weight: 300;
+        }
+        .vector-ev3 {
+          flex-shrink: 0;
+          margin-bottom: 0.1223rem;
+          width: 2.73rem;
+          height: 2.0736rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+      .forgot-password-N5M {
+        font-size: 1.5rem;
+        font-weight: 400;
+        line-height: 0.8;
+        color: #000000;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        display: flex;
+      }
+    }
+    .auto-group-4jfv-Wqm {
+      box-sizing: border-box;
+      padding: 7.818rem 1.6rem 0rem 1.6rem;
+      width: 100%;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .button-login-qt3 {
+        justify-content: center;
+        font-size: 3.2rem;
+        background-color: #a51c06;
+        cursor: pointer;
+        align-items: center;
+        color: #ffffff;
+        flex-shrink: 0;
+        width: calc(100% - 8.5rem);
+        font-weight: 700;
+        border-radius: 0.5rem;
+        margin: 0rem 4.2rem 11.25rem 4.3rem;
+        height: 6.2rem;
+        display: flex;
+        line-height: 0.8000000119;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .dont-have-account-crate-a-new-account-VSo {
+        margin-right: 5.1rem;
+        display: flex;
+        font-size: 1.5rem;
+        font-weight: 400;
+        line-height: 0.8;
+        font-family: Poppins, 'Source Sans Pro';
+        align-items: baseline;
+        color: #a51c06;
+        white-space: nowrap;
+        flex-shrink: 0;
+
+        .dont-have-account-crate-a-new-account-VSo-sub-0 {
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 1.5rem;
+          font-weight: 400;
+          line-height: 0.8;
+        }
+        .dont-have-account-crate-a-new-account-VSo-sub-1 {
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,961 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 172.8rem;
+}.dm-activity-page-pa3 {
+  display: flex;
+  flex-direction: column;
+  background-color: #3b3b3b;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+
+  .navbar-AP1 {
+    margin-bottom: 6.6rem;
+    width: 100%;
+    height: 21.3rem;
+    position: relative;
+    flex-shrink: 0;
+
+    .background-JVD {
+      position: absolute;
+      left: 0;
+      top: 0;
+      background-color: #ffb606;
+      width: 172.8rem;
+      height: 18.6rem;
+    }
+    .home-e3H {
+      cursor: pointer;
+      position: absolute;
+      line-height: 1;
+      font-size: 4rem;
+      font-weight: 600;
+      letter-spacing: -0.08rem;
+      color: #ffffff;
+      width: 12.7rem;
+      height: 4rem;
+      left: 73.9rem;
+      top: 7rem;
+      font-family: Poppins, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .frame-141-8z3 {
+      justify-content: center;
+      width: 19.9rem;
+      left: 145rem;
+      font-size: 4rem;
+      font-weight: 600;
+      align-items: center;
+      height: 6.7951rem;
+      line-height: 1;
+      letter-spacing: -0.08rem;
+      color: #ffffff;
+      white-space: nowrap;
+      background-color: #1c1c1c;
+      top: 5.9rem;
+      position: absolute;
+      font-family: Poppins, 'Source Sans Pro';
+      display: flex;
+      border-radius: 2.5rem;
+      cursor: pointer;
+    }
+    .frame-138-bcj {
+      left: 90.4rem;
+      font-size: 4rem;
+      white-space: nowrap;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: absolute;
+      top: 5rem;
+      overflow: hidden;
+      height: 7.7rem;
+      font-weight: 600;
+      color: #ffffff;
+      width: 15.3rem;
+      cursor: pointer;
+      line-height: 1;
+      letter-spacing: -0.08rem;
+      font-family: Poppins, 'Source Sans Pro';
+    }
+    .image-1-527 {
+      vertical-align: top;
+      width: 21.3rem;
+      height: 21.3rem;
+      position: absolute;
+      left: 10rem;
+      top: 0;
+      object-fit: cover;
+    }
+    .frame-139-bm9 {
+      font-family: Poppins, 'Source Sans Pro';
+      white-space: nowrap;
+      justify-content: center;
+      left: 108.5rem;
+      line-height: 1;
+      overflow: hidden;
+      align-items: center;
+      cursor: pointer;
+      position: absolute;
+      top: 4.7rem;
+      font-size: 4rem;
+      font-weight: 600;
+      color: #ffffff;
+      display: flex;
+      width: 19.1rem;
+      height: 9.1rem;
+      letter-spacing: -0.08rem;
+    }
+    .frame-140-tET {
+      height: 8.8rem;
+      cursor: pointer;
+      position: absolute;
+      font-weight: 600;
+      font-family: Poppins, 'Source Sans Pro';
+      justify-content: center;
+      left: 127.6rem;
+      overflow: hidden;
+      font-size: 4rem;
+      line-height: 1;
+      white-space: nowrap;
+      width: 14.6rem;
+      top: 5rem;
+      display: flex;
+      align-items: center;
+      letter-spacing: -0.08rem;
+      color: #ffffff;
+    }
+  }
+  .insights-menu-NfR {
+    position: relative;
+    flex-shrink: 0;
+    margin-bottom: 7.0244rem;
+    width: 100%;
+    height: 47.7756rem;
+
+    .red-background-vB9 {
+      width: 172.8rem;
+      height: 38.1rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+      background-color: #ffb606;
+    }
+    .rating-menu-GF1 {
+      left: 5.4rem;
+      background: linear-gradient(258.35deg, #ffb900 69.79%, #fff6dc 221.47%);
+      width: 50.4rem;
+      position: absolute;
+      height: 27.3756rem;
+      top: 20.4rem;
+      border-radius: 1.5rem;
+      box-sizing: border-box;
+      padding-bottom: 2.7756rem;
+
+      .auto-group-ebcb-mhZ {
+        padding: 2.9rem 3.1rem 3.7rem 3.1rem;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+
+        .lets-talk-about-moro-artos-burjo-and-warmindo-gZd {
+          margin-bottom: 0.6rem;
+          max-width: 36.1rem;
+          font-size: 3.6rem;
+          display: flex;
+          font-weight: 600;
+          line-height: 1;
+          letter-spacing: -0.072rem;
+          color: #854f00;
+          font-family: Poppins, 'Source Sans Pro';
+          flex-shrink: 0;
+        }
+        .how-was-your-food-from-there-Lu5 {
+          color: #854f00;
+          font-family: Poppins, 'Source Sans Pro';
+          line-height: 1;
+          letter-spacing: -0.04rem;
+          white-space: nowrap;
+          flex-shrink: 0;
+          display: flex;
+          font-size: 2rem;
+          font-weight: 400;
+        }
+      }
+      .rectangle-68-ees {
+        margin-bottom: 2.3rem;
+        width: 100%;
+        height: 0.3rem;
+        background-color: #ffffff;
+      }
+      .rate-and-review-CAb {
+        font-weight: 500;
+        color: #854f00;
+        white-space: nowrap;
+        line-height: 1;
+        letter-spacing: -0.04rem;
+        font-family: Poppins, 'Source Sans Pro';
+        margin-left: 3.1rem;
+        display: flex;
+        font-size: 2rem;
+      }
+    }
+    .less-order-menu-4Co {
+      position: absolute;
+      left: 61.2rem;
+      background: linear-gradient(258.35deg, #ffb900 69.79%, #fff6dc 221.47%);
+      border-radius: 1.5rem;
+      box-sizing: border-box;
+      width: 50.4rem;
+      height: 27.3756rem;
+      padding-bottom: 2.7756rem;
+      top: 20.4rem;
+
+      .auto-group-65xm-NDV {
+        box-sizing: border-box;
+        padding: 2.9rem 3.1rem 3.7rem 3.1rem;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+
+        .you-seem-to-enjoy-using-moro-artos-app-uDR {
+          display: flex;
+          font-size: 3.6rem;
+          font-weight: 600;
+          color: #854f00;
+          flex-shrink: 0;
+          margin-bottom: 4.2rem;
+          max-width: 39rem;
+          line-height: 1;
+          letter-spacing: -0.072rem;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+        .you-made-4-order-inthe-last-30-days-CTR {
+          font-weight: 400;
+          line-height: 1;
+          color: #854f00;
+          font-family: Poppins, 'Source Sans Pro';
+          flex-shrink: 0;
+          display: flex;
+          letter-spacing: -0.04rem;
+          white-space: nowrap;
+          font-size: 2rem;
+        }
+      }
+      .rectangle-68-K2F {
+        margin-bottom: 2.3rem;
+        width: 100%;
+        height: 0.3rem;
+        background-color: #ffffff;
+      }
+      .save-on-your-next-few-orders-4Vd {
+        letter-spacing: -0.04rem;
+        color: #854f00;
+        font-family: Poppins, 'Source Sans Pro';
+        display: flex;
+        font-weight: 500;
+        line-height: 1;
+        margin-left: 3.1rem;
+        font-size: 2rem;
+        white-space: nowrap;
+      }
+    }
+    .points-menu-vXq {
+      width: 50.4rem;
+      background: linear-gradient(258.35deg, #ffb900 69.79%, #fff6dc 221.47%);
+      box-sizing: border-box;
+      padding-bottom: 2.7756rem;
+      height: 27.3756rem;
+      position: absolute;
+      left: 117rem;
+      top: 20.4rem;
+      border-radius: 1.5rem;
+
+      .auto-group-uy6w-FKD {
+        box-sizing: border-box;
+        padding: 4.7rem 3.1rem 3.7rem 3.1rem;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+
+        .you-have-152-points-right-now-BTm {
+          margin-bottom: 2.4rem;
+          max-width: 34.6rem;
+          display: flex;
+          letter-spacing: -0.072rem;
+          color: #854f00;
+          font-family: Poppins, 'Source Sans Pro';
+          flex-shrink: 0;
+          font-size: 3.6rem;
+          font-weight: 600;
+          line-height: 1;
+        }
+        .use-them-to-redeem-exclusive-items-sbV {
+          color: #854f00;
+          white-space: nowrap;
+          line-height: 1;
+          font-size: 2rem;
+          font-weight: 400;
+          letter-spacing: -0.04rem;
+          font-family: Poppins, 'Source Sans Pro';
+          flex-shrink: 0;
+          display: flex;
+        }
+      }
+      .rectangle-68-zAK {
+        margin-bottom: 2.3rem;
+        width: 100%;
+        height: 0.3rem;
+        background-color: #ffffff;
+      }
+      .explore-moro-artos-app-LV5 {
+        display: flex;
+        font-size: 2rem;
+        font-weight: 500;
+        letter-spacing: -0.04rem;
+        color: #854f00;
+        margin-left: 3.1rem;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        line-height: 1;
+      }
+    }
+    .insights-p9M {
+      line-height: 1;
+      letter-spacing: -0.128rem;
+      width: 24.8rem;
+      height: 6.4rem;
+      position: absolute;
+      display: flex;
+      color: #ffffff;
+      font-family: Poppins, 'Source Sans Pro';
+      white-space: nowrap;
+      left: 5.4rem;
+      top: 7rem;
+      font-size: 6.4rem;
+      font-weight: 600;
+    }
+  }
+  .recent-order-uRh {
+    margin: 0rem 0rem 8.5rem 5.4rem;
+    width: 121.6rem;
+    flex-shrink: 0;
+
+    .recent-ETy {
+      letter-spacing: -0.128rem;
+      font-family: Poppins, 'Source Sans Pro';
+      margin-bottom: 8.5rem;
+      display: flex;
+      line-height: 1;
+      white-space: nowrap;
+      font-size: 6.4rem;
+      font-weight: 600;
+      color: #ffffff;
+    }
+    .order-1-xum {
+      align-items: flex-start;
+      margin: 0rem 0rem 15rem 3.5rem;
+      height: 17.5rem;
+      display: flex;
+
+      .auto-group-m3od-tYX {
+        flex-shrink: 0;
+        margin: 0rem 14.6rem 2.5rem 0rem;
+        box-sizing: border-box;
+        padding: 4.1rem 4rem 4.176rem 4.1rem;
+        background-color: #ffb606;
+        border-radius: 7.5rem;
+
+        .vector-1NF {
+          width: 6.9rem;
+          height: 6.7241rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+      .auto-group-poxu-jZ9 {
+        height: 100%;
+        row-gap: 1.2rem;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin-right: 13.1rem;
+
+        .warmindo-burjo-moro-artos-salatiga-UWj {
+          letter-spacing: -0.08rem;
+          color: #ffffff;
+          flex-shrink: 0;
+          font-weight: 500;
+          display: flex;
+          font-size: 4rem;
+          line-height: 1;
+          font-family: Poppins, 'Source Sans Pro';
+          max-width: 57.3rem;
+        }
+        .feb-2024-18-27-Pdh {
+          font-size: 3.2rem;
+          font-weight: 300;
+          line-height: 1;
+          letter-spacing: -0.064rem;
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .auto-group-awx7-iAB {
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .rate-Fvo {
+            letter-spacing: -0.064rem;
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-family: Poppins, 'Source Sans Pro';
+            margin: 0.1rem 1.8rem 0rem 0rem;
+            display: flex;
+            font-size: 3.2rem;
+            font-weight: 600;
+            line-height: 1;
+            color: #ffb606;
+          }
+          .frame-113-TvP {
+            margin-right: 5.8rem;
+            width: 3.9rem;
+            height: 3.9rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .reorder-C7H {
+            line-height: 1;
+            letter-spacing: -0.064rem;
+            color: #ffb606;
+            margin: 0.1rem 1.8rem 0rem 0rem;
+            font-size: 3.2rem;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            display: flex;
+            font-weight: 600;
+          }
+          .frame-114-uGb {
+            vertical-align: top;
+            flex-shrink: 0;
+            width: 3.9rem;
+            height: 3.9rem;
+            object-fit: contain;
+          }
+        }
+      }
+      .rp52025-qvw {
+        flex-shrink: 0;
+        letter-spacing: -0.08rem;
+        color: #ffb606;
+        white-space: nowrap;
+        line-height: 1;
+        font-family: Poppins, 'Source Sans Pro';
+        display: flex;
+        font-size: 4rem;
+        font-weight: 600;
+      }
+    }
+    .order-2-Nfy {
+      margin: 0rem 0rem 15rem 3.5rem;
+      width: calc(100% - 3.5rem);
+      height: 17.5rem;
+      display: flex;
+      align-items: flex-start;
+
+      .auto-group-slcp-JJj {
+        box-sizing: border-box;
+        padding: 4.1rem 4rem 4.176rem 4.1rem;
+        height: 15rem;
+        background-color: #ffb606;
+        border-radius: 7.5rem;
+        flex-shrink: 0;
+        margin-right: 14.6rem;
+
+        .vector-ReF {
+          height: 6.7241rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 6.9rem;
+        }
+      }
+      .auto-group-t54b-Yis {
+        width: 88.5rem;
+        height: 100%;
+        flex-shrink: 0;
+
+        .auto-group-vpqz-6kP {
+          width: 100%;
+          height: 6rem;
+          position: relative;
+          margin-bottom: 3.2rem;
+
+          .warmindo-burjo-moro-artos-salatiga-qxs {
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            height: 4rem;
+            position: absolute;
+            top: 2rem;
+            font-weight: 500;
+            line-height: 1;
+            white-space: nowrap;
+            width: 73.5rem;
+            left: 0;
+            display: flex;
+            font-size: 4rem;
+            letter-spacing: -0.08rem;
+          }
+          .rp52025-Lud {
+            width: 18.1rem;
+            top: 0;
+            line-height: 1;
+            letter-spacing: -0.08rem;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            color: #ffb606;
+            height: 4rem;
+            position: absolute;
+            left: 70.4rem;
+            display: flex;
+            font-size: 4rem;
+            font-weight: 600;
+          }
+        }
+        .feb-2024-18-27-TUT {
+          font-weight: 300;
+          line-height: 1;
+          letter-spacing: -0.064rem;
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          margin-bottom: 1.2rem;
+          font-size: 3.2rem;
+        }
+        .auto-group-6yit-ZXV {
+          display: flex;
+          align-items: center;
+
+          .rate-KFm {
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            margin: 0.1rem 1.8rem 0rem 0rem;
+            display: flex;
+            font-weight: 600;
+            letter-spacing: -0.064rem;
+            font-size: 3.2rem;
+            line-height: 1;
+            color: #ffb606;
+            flex-shrink: 0;
+          }
+          .frame-113-1uH {
+            margin-right: 5.8rem;
+            width: 3.9rem;
+            height: 3.9rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .reorder-YuD {
+            flex-shrink: 0;
+            font-size: 3.2rem;
+            font-weight: 600;
+            line-height: 1;
+            letter-spacing: -0.064rem;
+            color: #ffb606;
+            font-family: Poppins, 'Source Sans Pro';
+            margin: 0.1rem 1.8rem 0rem 0rem;
+            display: flex;
+            white-space: nowrap;
+          }
+          .frame-114-rf1 {
+            width: 3.9rem;
+            height: 3.9rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+      }
+    }
+    .order-3-zWK {
+      height: 17.5rem;
+      display: flex;
+      align-items: flex-start;
+      margin: 0rem 0rem 15rem 3.5rem;
+      width: calc(100% - 3.5rem);
+
+      .auto-group-mdvq-ves {
+        height: 15rem;
+        background-color: #ffb606;
+        border-radius: 7.5rem;
+        flex-shrink: 0;
+        margin-right: 14.6rem;
+        box-sizing: border-box;
+        padding: 4.1rem 4rem 4.176rem 4.1rem;
+
+        .vector-3zP {
+          width: 6.9rem;
+          height: 6.7241rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+      .auto-group-yxik-Bqh {
+        flex-shrink: 0;
+        width: 88.5rem;
+        height: 100%;
+
+        .auto-group-cgyu-9Gj {
+          width: 100%;
+          height: 6rem;
+          position: relative;
+          margin-bottom: 3.2rem;
+
+          .warmindo-burjo-moro-artos-salatiga-Hdq {
+            font-size: 4rem;
+            font-weight: 500;
+            letter-spacing: -0.08rem;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 73.5rem;
+            position: absolute;
+            top: 2rem;
+            display: flex;
+            line-height: 1;
+            color: #ffffff;
+            height: 4rem;
+            left: 0;
+          }
+          .rp52025-Bz7 {
+            top: 0;
+            font-weight: 600;
+            line-height: 1;
+            letter-spacing: -0.08rem;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 18.1rem;
+            position: absolute;
+            display: flex;
+            font-size: 4rem;
+            color: #ffb606;
+            height: 4rem;
+            left: 70.4rem;
+          }
+        }
+        .feb-2024-18-27-hxT {
+          margin-bottom: 1.2rem;
+          font-size: 3.2rem;
+          font-weight: 300;
+          line-height: 1;
+          letter-spacing: -0.064rem;
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .auto-group-tdjf-dr7 {
+          display: flex;
+          align-items: center;
+
+          .rate-PqH {
+            line-height: 1;
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-weight: 600;
+            display: flex;
+            font-size: 3.2rem;
+            letter-spacing: -0.064rem;
+            color: #ffb606;
+            font-family: Poppins, 'Source Sans Pro';
+            margin: 0.1rem 1.8rem 0rem 0rem;
+          }
+          .frame-113-JhM {
+            width: 3.9rem;
+            height: 3.9rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-right: 5.8rem;
+          }
+          .reorder-2tF {
+            display: flex;
+            font-weight: 600;
+            line-height: 1;
+            letter-spacing: -0.064rem;
+            color: #ffb606;
+            font-family: Poppins, 'Source Sans Pro';
+            margin: 0.1rem 1.8rem 0rem 0rem;
+            font-size: 3.2rem;
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+          .frame-114-Yrb {
+            width: 3.9rem;
+            height: 3.9rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+      }
+    }
+    .order-4-HpB {
+      width: calc(100% - 3.5rem);
+      height: 17.5rem;
+      display: flex;
+      align-items: flex-start;
+      margin-left: 3.5rem;
+
+      .auto-group-dmao-RvP {
+        margin-right: 14.6rem;
+        box-sizing: border-box;
+        padding: 4.1rem 4rem 4.176rem 4.1rem;
+        height: 15rem;
+        background-color: #ffb606;
+        border-radius: 7.5rem;
+        flex-shrink: 0;
+
+        .vector-Yk7 {
+          width: 6.9rem;
+          height: 6.7241rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+      .auto-group-qv27-5zw {
+        flex-shrink: 0;
+        width: 88.5rem;
+        height: 100%;
+
+        .auto-group-wbl3-Sab {
+          width: 100%;
+          height: 6rem;
+          position: relative;
+          margin-bottom: 3.2rem;
+
+          .warmindo-burjo-moro-artos-salatiga-oAF {
+            font-size: 4rem;
+            line-height: 1;
+            letter-spacing: -0.08rem;
+            color: #ffffff;
+            top: 2rem;
+            height: 4rem;
+            position: absolute;
+            left: 0;
+            display: flex;
+            font-weight: 500;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 73.5rem;
+          }
+          .rp52025-JMu {
+            left: 70.4rem;
+            display: flex;
+            font-size: 4rem;
+            height: 4rem;
+            position: absolute;
+            top: 0;
+            font-weight: 600;
+            line-height: 1;
+            letter-spacing: -0.08rem;
+            color: #ffb606;
+            font-family: Poppins, 'Source Sans Pro';
+            width: 18.1rem;
+            white-space: nowrap;
+          }
+        }
+        .feb-2024-18-27-1XD {
+          font-size: 3.2rem;
+          font-weight: 300;
+          line-height: 1;
+          letter-spacing: -0.064rem;
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          margin-bottom: 1.2rem;
+        }
+        .auto-group-nlor-YGF {
+          display: flex;
+          align-items: center;
+
+          .rate-u6o {
+            font-size: 3.2rem;
+            font-weight: 600;
+            line-height: 1;
+            letter-spacing: -0.064rem;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            margin: 0.1rem 1.8rem 0rem 0rem;
+            display: flex;
+            color: #ffb606;
+            flex-shrink: 0;
+          }
+          .frame-113-DtB {
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-right: 5.8rem;
+            width: 3.9rem;
+            height: 3.9rem;
+            object-fit: contain;
+          }
+          .reorder-xqm {
+            color: #ffb606;
+            font-family: Poppins, 'Source Sans Pro';
+            flex-shrink: 0;
+            display: flex;
+            font-weight: 600;
+            letter-spacing: -0.064rem;
+            white-space: nowrap;
+            margin: 0.1rem 1.8rem 0rem 0rem;
+            font-size: 3.2rem;
+            line-height: 1;
+          }
+          .frame-114-59h {
+            width: 3.9rem;
+            height: 3.9rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+      }
+    }
+  }
+  .dashboard-Qhm {
+    height: 21.8rem;
+    display: flex;
+    align-items: center;
+    background-color: #ffb606;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 0.5rem 0rem 0rem 5.8rem;
+    width: 196rem;
+
+    .logo-moro-artos-wBu {
+      flex-shrink: 0;
+      margin-right: 15.2rem;
+      width: 21.3rem;
+      height: 21.3rem;
+      object-fit: cover;
+      vertical-align: top;
+    }
+    .privacy-UBq {
+      margin: 9.3rem 21.3rem 9.2rem 0rem;
+      height: calc(100% - 18.5rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .privacy-BM9 {
+        color: #ffffff;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        margin: 0rem 0.7rem 0.2rem 0rem;
+        font-size: 2.4rem;
+        line-height: 1;
+        letter-spacing: -0.048rem;
+        font-weight: 600;
+        flex-shrink: 0;
+      }
+      .rectangle-38-5xK {
+        margin-right: 0.7rem;
+        width: 0.2rem;
+        height: 2.8rem;
+        background-color: #ffffff;
+        flex-shrink: 0;
+      }
+      .trems-of-use-Qzb {
+        font-size: 2.4rem;
+        font-weight: 600;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0rem 0.7rem 0.2rem 0rem;
+        line-height: 1;
+        letter-spacing: -0.048rem;
+        color: #ffffff;
+      }
+      .rectangle-39-ikP {
+        margin-right: 0.7rem;
+        width: 0.2rem;
+        height: 2.8rem;
+        background-color: #ffffff;
+        flex-shrink: 0;
+      }
+      .sitemap-fQj {
+        color: #ffffff;
+        font-size: 2.4rem;
+        font-weight: 600;
+        line-height: 1;
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0rem 0.8rem 0.2rem 0rem;
+        letter-spacing: -0.048rem;
+        font-family: Poppins, 'Source Sans Pro';
+      }
+      .rectangle-40-ywD {
+        height: 2.8rem;
+        background-color: #ffffff;
+        flex-shrink: 0;
+        margin-right: 0.7rem;
+        width: 0.2rem;
+      }
+      .costumer-support-Xxj {
+        color: #ffffff;
+        font-family: Poppins, 'Source Sans Pro';
+        line-height: 1;
+        letter-spacing: -0.048rem;
+        font-weight: 600;
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 0.7rem;
+        font-size: 2.4rem;
+      }
+      .rectangle-41-TbV {
+        margin-right: 0.7rem;
+        width: 0.2rem;
+        height: 2.8rem;
+        background-color: #ffffff;
+        flex-shrink: 0;
+      }
+      .accesbility-statement-Pzw {
+        font-weight: 600;
+        line-height: 1;
+        letter-spacing: -0.048rem;
+        color: #ffffff;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 2.4rem;
+      }
+    }
+    .dark-mode-X5Z {
+      font-size: 3.2rem;
+      color: #ffffff;
+      font-family: Poppins, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-bottom: 8.5rem;
+      font-weight: 600;
+      line-height: 1;
+      letter-spacing: -0.064rem;
+    }
+  }
+}

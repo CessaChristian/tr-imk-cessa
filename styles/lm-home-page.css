@@ -1,0 +1,405 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+
+.lm-home-page-DH9 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.lm-home-page-DH9 .navbar-MeF {
+  width: 100%;
+  height: 21.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .navbar-MeF .background-navbar-7NX {
+  width: 172.8rem;
+  height: 18.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #a51c06;
+}
+
+.lm-home-page-DH9 .navbar-MeF .log-out-button-rL7 a {
+  width: 19.9rem;
+  height: 6.7951rem;
+  cursor: pointer;
+  position: absolute;
+  left: 145rem;
+  top: 5.9rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #a51c06;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f5de9e;
+  border-radius: 2.5rem;
+  text-decoration: none;
+}
+
+.lm-home-page-DH9 .navbar-MeF .outlet-HwD a {
+  width: 12rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 129.1rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.lm-home-page-DH9 .navbar-MeF .activity-z4w a {
+  width: 14.8rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 110.5rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.lm-home-page-DH9 .navbar-MeF .menu-gyM a {
+  width: 11.1rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 92.7rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.lm-home-page-DH9 .navbar-MeF .home-1Ew a {
+  width: 12.7rem;
+  height: 4rem;
+  position: absolute;
+  left: 73.9rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.lm-home-page-DH9 .navbar-MeF .logo-moro-artos-WxP {
+  width: 21.3rem;
+  height: 21.3rem;
+  position: absolute;
+  left: 10rem;
+  top: -10px;
+  object-fit: cover;
+  vertical-align: top;
+}
+.lm-home-page-DH9 .frame-137-rWT {
+  width: 196rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .auto-group-sck7-D67 {
+  box-sizing: border-box;
+  padding-bottom: 5.9rem;
+  width: 100%;
+  height: 155.3rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .auto-group-sck7-D67 .promo-LwR {
+  margin-bottom: 1.6rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .auto-group-sck7-D67 .promo-LwR .item-2-h1H {
+  width: 172.8rem;
+  height: 92.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .auto-group-sck7-D67 .promo-LwR .item-1-d9q {
+  width: 172.8rem;
+  height: 92.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .auto-group-sck7-D67 .promo-LwR .item-4-a55 {
+  width: 172.8rem;
+  height: 92.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .auto-group-sck7-D67 .promo-LwR .item-3-7qh {
+  width: 172.8rem;
+  height: 92.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .auto-group-sck7-D67 .auto-group-97yz-TuZ {
+  margin-left: 1.9rem;
+  height: 55rem;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .auto-group-sck7-D67 .auto-group-97yz-TuZ .our-food-bks {
+  width: 55rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: inset 0 0.4rem 5rem rgba(0, 0, 0, 0.5);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-36-bg-ufV.png');
+  background-color: rgba(0, 0, 0, 0.3400000036);
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .auto-group-sck7-D67 .auto-group-97yz-TuZ .our-outlet-EJ3 {
+  width: 55rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: inset 0 0.4rem 5rem rgba(0, 0, 0, 0.5);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-35-bg-Phy.png') ;
+  background-color: rgba(0, 0, 0, 0.349999994);
+  flex-shrink: 0;
+}
+.lm-home-page-DH9 .frame-137-rWT .auto-group-sck7-D67 .auto-group-97yz-TuZ .our-story-Fyq {
+  width: 55rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: inset 0 0.4rem 5rem rgba(0, 0, 0, 0.5);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-34-bg-p39.png');
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .dashboard-8Gw {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0rem 5.8rem;
+  width: 100%;
+  height: 21.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #a51c06;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .dashboard-8Gw .logo-moro-artos-FcT {
+  margin-right: 15.2rem;
+  width: 21.3rem;
+  height: 21.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .dashboard-8Gw .privacy-ncP {
+  margin: 9.3rem 21.3rem 9.2rem 0rem;
+  height: calc(100% - 18.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .dashboard-8Gw .privacy-ncP .privacy-VWo {
+  margin: 0rem 0.7rem 0.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .dashboard-8Gw .privacy-ncP .rectangle-38-zyM {
+  margin-right: 0.7rem;
+  width: 0.2rem;
+  height: 2.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .dashboard-8Gw .privacy-ncP .trems-of-use-jg3 {
+  margin: 0rem 0.7rem 0.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .dashboard-8Gw .privacy-ncP .rectangle-39-eY7 {
+  margin-right: 0.7rem;
+  width: 0.2rem;
+  height: 2.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .dashboard-8Gw .privacy-ncP .sitemap-bTM {
+  margin: 0rem 0.8rem 0.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .dashboard-8Gw .privacy-ncP .rectangle-40-7wV {
+  margin-right: 0.7rem;
+  width: 0.2rem;
+  height: 2.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .dashboard-8Gw .privacy-ncP .costumer-support-reB {
+  margin-right: 0.7rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .dashboard-8Gw .privacy-ncP .rectangle-41-mWF {
+  margin-right: 0.7rem;
+  width: 0.2rem;
+  height: 2.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .dashboard-8Gw .privacy-ncP .accesbility-statement-HzP {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.lm-home-page-DH9 .frame-137-rWT .dashboard-8Gw .dark-mode-CbZ a{
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}

@@ -1,0 +1,500 @@
+
+html {
+	font-size:62.5%;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+ul, li {
+	list-style: none;
+}
+
+input {
+	border: none;
+}
+
+.lm-menu-page-ekstra-Jfq {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.lm-menu-page-ekstra-Jfq .navbar-263 {
+  width: 100%;
+  height: 21.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.lm-menu-page-ekstra-Jfq .navbar-263 .background-navbar-Zbm {
+  width: 172.8rem;
+  height: 18.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #a51c06;
+}
+
+.lm-menu-page-ekstra-Jfq .navbar-263 .log-out-button-ttw a{
+  width: 19.9rem;
+  height: 6.7951rem;
+  cursor: pointer;
+  position: absolute;
+  left: 145rem;
+  top: 5.9rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #a51c06;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f5de9e;
+  border-radius: 2.5rem;
+  text-decoration: none;
+}
+
+.lm-menu-page-ekstra-Jfq .navbar-263 .outlet-8YP a{
+  width: 12rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 129.1rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.lm-menu-page-ekstra-Jfq .navbar-263 .activity-ciT a{
+  width: 14.8rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 110.5rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.lm-menu-page-ekstra-Jfq .navbar-263 .menu-8Ru a{
+  width: 11.1rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 92.7rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.lm-menu-page-ekstra-Jfq .navbar-263 .home-EUw a{
+  width: 12.7rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 73.9rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.lm-menu-page-ekstra-Jfq .navbar-263 .logo-moro-artos-kCP {
+  width: 21.3rem;
+  height: 21.3rem;
+  position: absolute;
+  left: 10rem;
+  top: -10px;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+/*===========================================================================*/
+
+.lm-menu-page-ekstra-Jfq .auto-group-bytf-U8P {
+  box-sizing: border-box;
+  padding: 6.5rem 17.3rem 19.1rem 13.3rem;
+  width: 100%;
+  height: 113.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.lm-menu-page-ekstra-Jfq .auto-group-bytf-U8P .button-menu-nes {
+  margin: 0rem 0rem 11.8rem 4rem;
+  width: 138.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.lm-menu-page-ekstra-Jfq .auto-group-bytf-U8P .button-menu-nes .auto-group-gvto-K91 {
+  margin: 0rem 0.1rem 2.6rem 0rem;
+  width: calc(100% - 0.1rem);
+  height: 6.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.lm-menu-page-ekstra-Jfq .auto-group-bytf-U8P .button-menu-nes .auto-group-gvto-K91 .frame-146-q7M a{
+  margin-right: 5.2rem;
+  width: 67.2rem;
+  height: 62px;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+
+.lm-menu-page-ekstra-Jfq .auto-group-bytf-U8P .button-menu-nes .auto-group-gvto-K91 .frame-149-Ug7 a{
+  width: 65.7rem;
+  height: 62px;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  background-color: #a51c06;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+
+.lm-menu-page-ekstra-Jfq .auto-group-bytf-U8P .button-menu-nes .auto-group-yrgf-x5V {
+  margin-left: 0.1rem;
+  height: 6.4rem;
+  display: flex;
+  column-gap: 6.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.lm-menu-page-ekstra-Jfq .auto-group-bytf-U8P .button-menu-nes .auto-group-yrgf-x5V .frame-145-tE3 a{
+  width: 41.9rem;
+  height: 62px;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+
+.lm-menu-page-ekstra-Jfq .auto-group-bytf-U8P .button-menu-nes .auto-group-yrgf-x5V .frame-147-mHq a{
+  width: 41.9rem;
+  height: 62px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+
+.lm-menu-page-ekstra-Jfq .auto-group-bytf-U8P .button-menu-nes .auto-group-yrgf-x5V .frame-148-daw a{
+  width: 41.9rem;
+  height: 62px;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+
+/*===========================================================================*/
+
+.lm-menu-page-ekstra-Jfq .auto-group-bytf-U8P .rokok-eceran-Wej {
+  box-sizing: border-box;
+  padding: 2.2rem 5rem 3.914rem 5rem;
+  width: 40rem;
+  height: 61rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #818181;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+
+.lm-menu-page-ekstra-Jfq .auto-group-bytf-U8P .rokok-eceran-Wej .ellipse-2-1bV {
+  margin-bottom: 3.6rem;
+  width: 100%;
+  height: 30rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-bSw.png');
+  border-radius: 15rem;
+  flex-shrink: 0;
+}
+
+.lm-menu-page-ekstra-Jfq .auto-group-bytf-U8P .rokok-eceran-Wej .rokok-eceran-uRy {
+  margin: 0rem 0.1rem 2.6rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.lm-menu-page-ekstra-Jfq .auto-group-bytf-U8P .rokok-eceran-Wej .rp2500-DBm {
+  margin: 0rem 1rem 2.6rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #a51c06;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-ekstra-Jfq .auto-group-bytf-U8P .rokok-eceran-Wej .rokok-terlebih-dahulu-sebelum-memulai-hari-dan-rasakan-sensasinya-8Jj {
+  margin: 0rem 0.1rem 2.6rem 0rem;
+  max-width: 22.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.032rem;
+  color: #848181;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: center;
+}
+.lm-menu-page-ekstra-Jfq .auto-group-bytf-U8P .rokok-eceran-Wej .auto-group-dsij-ofm {
+  margin: 0rem 5.7rem 0rem 5.6rem;
+  width: calc(100% - 11.3rem);
+  height: 3.8857rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #a51c06;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+
+/*===========================================================================*/
+
+.lm-menu-page-ekstra-Jfq .dashboard-duh {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0rem 5.8rem;
+  width: 196rem;
+  height: 21.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #a51c06;
+  flex-shrink: 0;
+}
+.lm-menu-page-ekstra-Jfq .dashboard-duh .logo-moro-artos-ZHZ {
+  margin-right: 15.2rem;
+  width: 21.3rem;
+  height: 21.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lm-menu-page-ekstra-Jfq .dashboard-duh .privacy-sp3 {
+  margin: 9.3rem 21.3rem 9.2rem 0rem;
+  height: calc(100% - 18.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lm-menu-page-ekstra-Jfq .dashboard-duh .privacy-sp3 .privacy-BZq {
+  margin: 0rem 0.7rem 0.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-ekstra-Jfq .dashboard-duh .privacy-sp3 .rectangle-38-J8f {
+  margin-right: 0.7rem;
+  width: 0.2rem;
+  height: 2.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.lm-menu-page-ekstra-Jfq .dashboard-duh .privacy-sp3 .trems-of-use-q8b {
+  margin: 0rem 0.7rem 0.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-ekstra-Jfq .dashboard-duh .privacy-sp3 .rectangle-39-9QB {
+  margin-right: 0.7rem;
+  width: 0.2rem;
+  height: 2.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.lm-menu-page-ekstra-Jfq .dashboard-duh .privacy-sp3 .sitemap-J2B {
+  margin: 0rem 0.8rem 0.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-ekstra-Jfq .dashboard-duh .privacy-sp3 .rectangle-40-D99 {
+  margin-right: 0.7rem;
+  width: 0.2rem;
+  height: 2.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.lm-menu-page-ekstra-Jfq .dashboard-duh .privacy-sp3 .costumer-support-Mm9 {
+  margin-right: 0.7rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-ekstra-Jfq .dashboard-duh .privacy-sp3 .rectangle-41-goR {
+  margin-right: 0.7rem;
+  width: 0.2rem;
+  height: 2.8rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.lm-menu-page-ekstra-Jfq .dashboard-duh .privacy-sp3 .accesbility-statement-qRR {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lm-menu-page-ekstra-Jfq .dashboard-duh .dark-mode-xW3 a{
+  margin-bottom: 8.5rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.064rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}

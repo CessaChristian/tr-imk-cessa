@@ -1,0 +1,459 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 172.8rem;
+}.dm-menu-page-ekstra-mts {
+  flex-direction: column;
+  background-color: #3b3b3b;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+
+  .navbar-uVH {
+    flex-shrink: 0;
+    width: 100%;
+    height: 21.3rem;
+    position: relative;
+
+    .background-navbar-F3M {
+      background-color: #ffb606;
+      width: 172.8rem;
+      height: 18.6rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+    }
+    .log-out-button-mnP {
+      line-height: 1;
+      justify-content: center;
+      border-radius: 2.5rem;
+      width: 19.9rem;
+      cursor: pointer;
+      position: absolute;
+      color: #ffffff;
+      white-space: nowrap;
+      align-items: center;
+      background-color: #1c1c1c;
+      height: 6.7951rem;
+      font-weight: 600;
+      letter-spacing: -0.08rem;
+      display: flex;
+      left: 145rem;
+      font-size: 4rem;
+      font-family: Poppins, 'Source Sans Pro';
+      top: 5.9rem;
+    }
+    .outlet-zf9 {
+      font-weight: 600;
+      letter-spacing: -0.08rem;
+      font-family: Poppins, 'Source Sans Pro';
+      height: 4rem;
+      cursor: pointer;
+      left: 129.1rem;
+      top: 7rem;
+      font-size: 4rem;
+      width: 12rem;
+      position: absolute;
+      line-height: 1;
+      color: #ffffff;
+      white-space: nowrap;
+    }
+    .activity-Vro {
+      color: #ffffff;
+      font-family: Poppins, 'Source Sans Pro';
+      width: 14.8rem;
+      height: 4rem;
+      cursor: pointer;
+      top: 7rem;
+      font-size: 4rem;
+      font-weight: 600;
+      position: absolute;
+      left: 110.5rem;
+      line-height: 1;
+      letter-spacing: -0.08rem;
+      white-space: nowrap;
+    }
+    .menu-zoZ {
+      top: 7rem;
+      font-size: 4rem;
+      font-weight: 600;
+      line-height: 1;
+      letter-spacing: -0.08rem;
+      white-space: nowrap;
+      height: 4rem;
+      position: absolute;
+      left: 92.7rem;
+      color: #ffffff;
+      font-family: Poppins, 'Source Sans Pro';
+      width: 11.1rem;
+      cursor: pointer;
+    }
+    .home-uQj {
+      width: 12.7rem;
+      position: absolute;
+      top: 7rem;
+      font-size: 4rem;
+      line-height: 1;
+      white-space: nowrap;
+      height: 4rem;
+      cursor: pointer;
+      left: 73.9rem;
+      font-weight: 600;
+      letter-spacing: -0.08rem;
+      color: #ffffff;
+      font-family: Poppins, 'Source Sans Pro';
+    }
+    .logo-moro-artos-QsH {
+      vertical-align: top;
+      width: 21.3rem;
+      height: 21.3rem;
+      position: absolute;
+      left: 10rem;
+      top: 0;
+      object-fit: cover;
+    }
+  }
+  .auto-group-covh-94B {
+    width: 100%;
+    height: 113.8rem;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 6.5rem 17.3rem 19.1rem 13.3rem;
+
+    .button-menu-fHR {
+      flex-direction: column;
+      flex-shrink: 0;
+      margin: 0rem 0rem 11.8rem 4rem;
+      width: 138.2rem;
+      align-items: center;
+      display: flex;
+
+      .auto-group-ibvq-PDR {
+        margin: 0rem 0.1rem 2.6rem 0rem;
+        width: calc(100% - 0.1rem);
+        height: 6.4rem;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .frame-146-Hpb {
+          justify-content: center;
+          background-color: #1c1c1c;
+          font-size: 3.2rem;
+          line-height: 1;
+          font-weight: 500;
+          letter-spacing: -0.064rem;
+          align-items: center;
+          margin-right: 5.2rem;
+          height: 100%;
+          font-family: Poppins, 'Source Sans Pro';
+          flex-shrink: 0;
+          text-align: center;
+          color: #ffffff;
+          display: flex;
+          border-radius: 2.5rem;
+          width: 67.2rem;
+          white-space: nowrap;
+        }
+        .frame-149-MJf {
+          white-space: nowrap;
+          align-items: center;
+          justify-content: center;
+          width: 65.7rem;
+          letter-spacing: -0.064rem;
+          display: flex;
+          background-color: #ffb606;
+          height: 100%;
+          font-size: 3.2rem;
+          font-weight: 500;
+          color: #1c1c1c;
+          font-family: Poppins, 'Source Sans Pro';
+          border-radius: 2.5rem;
+          flex-shrink: 0;
+          text-align: center;
+          line-height: 1;
+        }
+      }
+      .auto-group-hk6f-Sb1 {
+        margin-left: 0.1rem;
+        height: 6.4rem;
+        display: flex;
+        column-gap: 6.2rem;
+        align-items: center;
+        flex-shrink: 0;
+
+        .frame-145-yaw {
+          font-weight: 500;
+          white-space: nowrap;
+          border-radius: 2.5rem;
+          font-size: 3.2rem;
+          line-height: 1;
+          letter-spacing: -0.064rem;
+          align-items: center;
+          width: 41.9rem;
+          justify-content: center;
+          background-color: #1c1c1c;
+          display: flex;
+          cursor: pointer;
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          flex-shrink: 0;
+          height: 100%;
+        }
+        .frame-147-sAX {
+          text-align: center;
+          white-space: nowrap;
+          height: 100%;
+          cursor: pointer;
+          font-family: Poppins, 'Source Sans Pro';
+          display: flex;
+          background-color: #1c1c1c;
+          width: 41.9rem;
+          font-size: 3.2rem;
+          font-weight: 500;
+          line-height: 1;
+          align-items: center;
+          border-radius: 2.5rem;
+          letter-spacing: -0.064rem;
+          color: #ffffff;
+          justify-content: center;
+          flex-shrink: 0;
+        }
+        .frame-148-xSs {
+          font-weight: 500;
+          letter-spacing: -0.064rem;
+          background-color: #1c1c1c;
+          line-height: 1;
+          border-radius: 2.5rem;
+          flex-shrink: 0;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 41.9rem;
+          cursor: pointer;
+          font-size: 3.2rem;
+          color: #ffffff;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+      }
+    }
+    .rokok-eceran-qmZ {
+      width: 40rem;
+      flex-direction: column;
+      border-radius: 2rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2.2rem 5rem 3.914rem 5rem;
+      height: 61rem;
+      align-items: center;
+      display: flex;
+      border: solid 0.1rem #1c1c1c;
+      background-color: #1c1c1c;
+
+      .ellipse-2-LyD {
+        margin-bottom: 3.6rem;
+        background-image: url('REPLACE_IMAGE:d7acc03f5060b177835f560cc98b10c20f90d367');
+        border-radius: 15rem;
+        flex-shrink: 0;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 100%;
+        height: 30rem;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        background-size: 100% 100%;
+      }
+      .rokok-eceran-RUs {
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 2.4rem;
+        line-height: 1;
+        letter-spacing: -0.048rem;
+        font-family: Poppins, 'Source Sans Pro';
+        margin: 0rem 0.1rem 2.6rem 0rem;
+        text-align: center;
+        font-weight: 500;
+        color: #ffffff;
+      }
+      .rp2500-vRd {
+        font-size: 2.4rem;
+        font-weight: 500;
+        line-height: 1;
+        color: #ffb606;
+        font-family: Poppins, 'Source Sans Pro';
+        margin: 0rem 1rem 2.6rem 0rem;
+        letter-spacing: -0.048rem;
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .rokok-terlebih-dahulu-sebelum-memulai-hari-dan-rasakan-sensasinya-q2o {
+        max-width: 22.3rem;
+        align-items: center;
+        line-height: 1;
+        letter-spacing: -0.032rem;
+        font-family: Inter, 'Source Sans Pro';
+        margin: 0rem 0.1rem 2.6rem 0rem;
+        display: flex;
+        justify-content: center;
+        font-size: 1.6rem;
+        font-weight: 400;
+        color: #ffffff;
+        flex-shrink: 0;
+      }
+      .auto-group-6jb9-6zK {
+        margin: 0rem 5.7rem 0rem 5.6rem;
+        width: calc(100% - 11.3rem);
+        align-items: center;
+        letter-spacing: -0.036rem;
+        border-radius: 2.5rem;
+        font-size: 1.8rem;
+        line-height: 1;
+        color: #ffffff;
+        white-space: nowrap;
+        background-color: #ffb606;
+        height: 3.8857rem;
+        justify-content: center;
+        flex-shrink: 0;
+        display: flex;
+        font-weight: 800;
+        font-family: Poppins, 'Source Sans Pro';
+      }
+    }
+  }
+  .dashboard-Xpj {
+    align-items: center;
+    background-color: #ffb606;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 0.5rem 0rem 0rem 5.8rem;
+    width: 196rem;
+    height: 21.8rem;
+    display: flex;
+
+    .logo-moro-artos-TTV {
+      margin-right: 15.2rem;
+      width: 21.3rem;
+      height: 21.3rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .privacy-nVm {
+      margin: 9.3rem 21.3rem 9.2rem 0rem;
+      height: calc(100% - 18.5rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .privacy-hMq {
+        margin: 0rem 0.7rem 0.2rem 0rem;
+        font-size: 2.4rem;
+        font-weight: 600;
+        color: #ffffff;
+        line-height: 1;
+        letter-spacing: -0.048rem;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .rectangle-38-CZV {
+        flex-shrink: 0;
+        margin-right: 0.7rem;
+        width: 0.2rem;
+        height: 2.8rem;
+        background-color: #ffffff;
+      }
+      .trems-of-use-8i3 {
+        font-weight: 600;
+        letter-spacing: -0.048rem;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        margin: 0rem 0.7rem 0.2rem 0rem;
+        font-size: 2.4rem;
+        line-height: 1;
+        color: #ffffff;
+        flex-shrink: 0;
+      }
+      .rectangle-39-oZH {
+        height: 2.8rem;
+        background-color: #ffffff;
+        flex-shrink: 0;
+        margin-right: 0.7rem;
+        width: 0.2rem;
+      }
+      .sitemap-K1q {
+        font-family: Poppins, 'Source Sans Pro';
+        line-height: 1;
+        letter-spacing: -0.048rem;
+        color: #ffffff;
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0rem 0.8rem 0.2rem 0rem;
+        font-size: 2.4rem;
+        font-weight: 600;
+      }
+      .rectangle-40-pUP {
+        background-color: #ffffff;
+        flex-shrink: 0;
+        margin-right: 0.7rem;
+        width: 0.2rem;
+        height: 2.8rem;
+      }
+      .costumer-support-AYF {
+        margin-right: 0.7rem;
+        letter-spacing: -0.048rem;
+        white-space: nowrap;
+        color: #ffffff;
+        font-family: Poppins, 'Source Sans Pro';
+        flex-shrink: 0;
+        font-size: 2.4rem;
+        font-weight: 600;
+        line-height: 1;
+      }
+      .rectangle-41-gmV {
+        height: 2.8rem;
+        background-color: #ffffff;
+        flex-shrink: 0;
+        margin-right: 0.7rem;
+        width: 0.2rem;
+      }
+      .accesbility-statement-dwd {
+        line-height: 1;
+        letter-spacing: -0.048rem;
+        color: #ffffff;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 2.4rem;
+        font-weight: 600;
+      }
+    }
+    .dark-mode-Agf {
+      line-height: 1;
+      font-family: Poppins, 'Source Sans Pro';
+      flex-shrink: 0;
+      margin-bottom: 8.5rem;
+      font-size: 3.2rem;
+      font-weight: 600;
+      letter-spacing: -0.064rem;
+      color: #ffffff;
+      white-space: nowrap;
+    }
+  }
+}
